@@ -43,3 +43,7 @@ Stylistically - I like to keep my Main clean as possible.
 
 ![](images/bank5.png)
 
+### Takeaways
+- Orgainization and style matter - easier to read and follow (by other and myself). Separation of concerns. 
+- It's easier to break down a program by looking at its smaller blocks of code.
+- initialize -> constructor -> invoke `new` object
