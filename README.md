@@ -19,17 +19,19 @@ Next we create 3 methods that give our application functionaility yo do things.
 
 ![](images/S2.png)
 
+## showMenu()
+
+The first block of code executed that acts as our aesthetics in terminal 
+- initializes `char option`;
+
+![](images/S3.png)
+
+## showMenu() - cont.
+
+This methods also coninueously runs a do/while loop with 5 different switch options
+
+![](images/S4.png)
 
 
-### Technologies and Protocols:
-* 
-
-### What the heck is ___?
-
-## Overview:
-
-![](images/.png)
-
-## Step 1: [Download](https://www.virtualbox.org/wiki/Downloads "Virtual Box")
 
 
