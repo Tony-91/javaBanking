@@ -32,6 +32,15 @@ This methods also coninueously runs a do/while loop with 5 different switch opti
 
 ![](images/S4.png)
 
+## Main 
 
+Stylistically - I like to keep my Main clean as possible.
+- Here, we create a new bankAccount instance and execute showMenu()
+
+![](images/bank4.png)
+
+## Finish product
+
+![](images/bank5.png)
 
 
