@@ -41,6 +41,5 @@ Stylistically - I like to keep my Main clean as possible.
 
 ## Finish product
 
-![](images/bank5.png)
-
+![](images/bank4.png)
 
