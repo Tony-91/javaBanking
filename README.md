@@ -39,7 +39,7 @@ Stylistically - I like to keep my Main clean as possible.
 
 ![](images/bank4.png)
 
-## Finish product
+## Finished product
 
 ![](images/bank5.png)
 
